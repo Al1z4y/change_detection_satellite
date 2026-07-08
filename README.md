@@ -2,7 +2,8 @@
 
 Binary change detection on satellite imagery using a Siamese network with a shared ResNet-34 backbone and FPN-style decoder. Trained on LEVIR-CD, with scripts for Sentinel-2 inference on Lahore urban growth and the 2022 Indus River floods.
 
-1. Project Overview & Architecture
+## Project Overview & Architecture
+
 The project focuses on performing binary change detection on multi-temporal satellite image pairs (e.g., before-and-after images).
 
 Model Architecture: Siamese ResNet-34/50 encoder sharing weights, coupled with an FPN-style (Feature Pyramid Network) decoder.
