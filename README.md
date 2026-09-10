@@ -194,4 +194,4 @@ A more detailed write-up of the methodology, experiments, and results is availab
 
 ## Team & Contributions
 
-Developed collaboratively by [YOUR NAME] and [TEAMMATE NAME]. [YOUR NAME] led the research paper, architecture design decisions, and documentation, while [TEAMMATE NAME] led model training and GPU infrastructure.
+Developed collaboratively by Alizay Nasir and Khadija Rashid. Alizay led the research paper, architecture design decisions, and documentation, while Khadija led model training and GPU infrastructure.
